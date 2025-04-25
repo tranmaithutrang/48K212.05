@@ -1,0 +1,3 @@
+Hệ thống đặt hàng cà phê tự động được xây dựng dựa trên nhu cầu của quản lý cũng như nhân viên đang làm việc tại quán. Hệ thống được xây dựng dựa trên khảo sát, phỏng vấn thực tế cùng quản lý và nhân viên quán cà phê Vật Thể
+Dựa trên những yêu cầu của khách hàng, hệ thống được xây dựng nhằm giúp nhân viên quán có thể thực hiện việc order một cách thuận tiện, bên cạnh đó còn có thể kiểm tra thông tin đơn hàng một cách nhanh chóng và thực hiện các chức năng khác 
+Ngoài ra, hệ thống còn có các chức năng giúp người quản lý có thể theo dõi được hoạt động đặt hàng xảy ra tại quán, cũng như doanh thu, số lượng hàng hóa để nhanh chóng đưa ra các quyết định kịp thời.
